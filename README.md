@@ -1,10 +1,12 @@
 # Oriel for Fire TV
 
+Latest version: **1.0.1 (build 2)**. [Versioned release](https://github.com/jazzybaps90/oriel-fire-tv/releases/tag/v1.0.1).
+
 Official preview APK downloads for Oriel, a personal IPTV playlist player.
 
 ## Install
 
-**Downloader code: 2690434** ([short link](https://aftv.news/2690434)). Open Downloader, enter the code, choose Go, then Install.
+**Downloader code: 2690434** ([short link](https://aftv.news/2690434)). Open Downloader, enter the code, choose Go, then Install. The existing code now downloads version 1.0.1. You can install it over the previous preview.
 
 1. Download [Oriel-Firestick-v1.0.apk](https://github.com/jazzybaps90/oriel-fire-tv/releases/download/v1.0.0/Oriel-Firestick-v1.0.apk) using Downloader on your compatible Fire TV.
 2. Allow Downloader to install apps when your Fire TV asks, then select Install.
